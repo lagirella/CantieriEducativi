@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
+  "name": "Cantieri Educativi",
   "version": "3.9.5",
-  "description": "The official app for Moodle.",
+  "description": "The official app for Laboratori di Comunità.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Coop.Soc. La Girella",
+    "email": "info@lagirella.it"
   },
   "repository": {
     "type": "git",
