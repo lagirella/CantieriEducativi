@@ -1,5 +1,4 @@
 {
-    "{
     "addon.badges.alignment": "Equivalenza",
     "addon.badges.badgedetails": "Dettagli badge",
     "addon.badges.badges": "Badge",
@@ -1754,8 +1753,7 @@
     "year": "anno",
     "years": "anni",
     "yes": "Sì"
-}
-accounts": "Accounts",
+    "accounts": "Accounts",
     "add": "Add",
     "agelocationverification": "Age and location verification",
     "ago": "{{$a}} ago",
@@ -3521,8 +3519,6 @@ accounts": "Accounts",
     "year": "anno",
     "years": "anni",
     "yes": "Sì"
-}
-
     "cancel": "Cancel",
     "cannotconnect": "Cannot connect",
     "cannotconnecttrouble": "We're having trouble connecting to your site.",
