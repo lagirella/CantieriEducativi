@@ -1,13 +1,13 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
+    "app_id": "it.laboratoridicomunita.app",
+    "appname": "Cantieri Educativi",
     "versioncode": 3950,
     "versionname": "3.9.5",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
     "cache_update_frequency_rarely": 43200000,
-    "default_lang": "en",
+    "default_lang": "it",
     "languages": {
         "af": "Afrikaans",
         "ar": "عربي",
@@ -81,8 +81,8 @@
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "https://laboratoridicomunita.it",
+    "sitename": "Laboratori di Comunità",
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
@@ -96,7 +96,7 @@
     "forceLoginLogo": false,
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "com.moodle.moodlemobile",
+        "android": "it.laboratoridicomunita.app",
         "ios": "id633359593"
     }
 }
