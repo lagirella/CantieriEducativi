@@ -1,5 +1,7 @@
 {   
-	"accounts": "Profili",
+    "preferences": "Sistema",
+    "scanqr": "Scansiona QR code",
+    "accounts": "Profili",
     "add": "Aggiungi",
     "agelocationverification": "Verifica dell'età e della della nazione",
     "ago": "{{$a}} fa",
